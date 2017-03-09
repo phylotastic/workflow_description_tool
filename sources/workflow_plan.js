@@ -1,4 +1,4 @@
-var workflow_plan_data = {
+var GLOBAL_WORKFLOW_PLAN_DATA = {
   "request_parameters" : {
     "input" : [
       {
